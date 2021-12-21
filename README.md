@@ -1,2 +1,2 @@
-# Javacordingtest
-자바 코딩테스트 연습
+# Java
+자바 관련 / 연습
